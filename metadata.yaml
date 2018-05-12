@@ -1,0 +1,35 @@
+_repo: MariquitaA-Novel_39498
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ayscough, John
+    aliases:
+    - Drew, Francis Browning, Count Bickerstaffe-Drew
+    - Bickerstaffe-Drew, Francis Browning Drew, Count
+    - Bickerstaffe-Drew, F. B. D. (Francis Browning Drew)
+    - Bickerstaffe, Francis Browning Drew
+    birthdate: 1858
+    deathdate: 1928
+    gutenberg_agent_id: '40053'
+    url: http://www.gutenberg.org/2009/agents/40053
+description: ''
+gutenberg_issued: '2012-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39498'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'West (U.S.) -- Fiction'
+- !lcsh 'Nuns -- Fiction'
+- !lcsh 'Fathers and daughters -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Catholics -- United States -- Fiction'
+title: 'Mariquita: A Novel'
+url: http://www.gutenberg.org/ebooks/39498
