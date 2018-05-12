@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '40053'
     url: http://www.gutenberg.org/2009/agents/40053
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39498#MariquitaA-Novel
 gutenberg_issued: '2012-04-22'
 gutenberg_type: Text
 identifiers:
